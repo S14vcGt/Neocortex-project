@@ -29,7 +29,10 @@
 		  "fill-labs.dependi",
 		  "ms-python.black-formatter",
 		  "ms-toolsai.jupyter",
-		  "GitHub.vscode-pull-request-github"       
+		  "GitHub.vscode-pull-request-github",
+		  "aaron-bond.better-comments",
+		  "usernamehw.errorlens",
+		  "tomoki1207.pdf"      
 		]
 	  }
 	}

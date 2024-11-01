@@ -27,7 +27,7 @@
 		  "eamodio.gitlens",
 		  "mhutchie.git-graph",
 		  "fill-labs.dependi",
-		  "ms-python.black-formatter",
+		  "ms-python.autopep8",
 		  "ms-toolsai.jupyter",
 		  "GitHub.vscode-pull-request-github",
 		  "aaron-bond.better-comments",

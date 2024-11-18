@@ -1,3 +1,5 @@
 ipykernel
 pandas
 matplotlib
+plotly
+nbformat
